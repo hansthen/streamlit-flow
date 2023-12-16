@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='streamlit-flow',
-    version='0.2.0',
+    version='0.3.0',
     author='Hans Then',
     author_email='hans.then@gmail.com',
     description='Create multipage streamlit applications',
